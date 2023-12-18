@@ -405,8 +405,8 @@
 </head>
 
 <body class="antialiased">
-    <h1>Hello world</h1>
-    <h3> {{$name}} , {{$age}} anni</h3>
+    <h1>About section</h1>
+    <h3>Studente presso {{$course}}, classe: {{$classe}}</h3>
 </body>
 
 </html>
